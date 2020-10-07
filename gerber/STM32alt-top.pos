@@ -1,0 +1,28 @@
+### Module positions - created on 10/06/20 21:38:19 ###
+### Printed by Pcbnew version kicad 4.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                               PosX       PosY       Rot  Side
+C1        2.2 uF         C_0805_HandSoldering               65.8480   -69.1260   90.0000  top
+C2        2.2 uF         C_0805_HandSoldering               71.2380   -64.9760    0.0000  top
+C7        1 uF           C_0805_HandSoldering               73.5180   -81.7060  270.0000  top
+C8        0.1 uF         C_0805_HandSoldering               67.5880   -48.3560  180.0000  top
+C9        0.1 uF         C_0805_HandSoldering               63.9980   -66.3260   90.0000  top
+C12       20 pF          C_0805_HandSoldering               71.9980   -46.0660  270.0000  top
+C13       1 uF           C_0805_HandSoldering               71.4880   -81.7360  270.0000  top
+C14       20 pF          C_0805_HandSoldering               64.0980   -46.9360  270.0000  top
+C15       20 pF          C_0805_HandSoldering               71.7480   -40.8260    0.0000  top
+C16       20 pF          C_0805_HandSoldering               63.9380   -40.0060   90.0000  top
+C17       10 nF          C_0805_HandSoldering               61.9180   -87.2260  270.0000  top
+D4        LED            LED_0805_HandSoldering             59.9280   -92.3360  270.0000  top
+R1        100k           R_0805_HandSoldering               63.9480   -71.1760   90.0000  top
+R3        1.5k           R_0805_HandSoldering               72.8080   -87.4060  270.0000  top
+R4        22R            R_0805_HandSoldering               77.0580   -87.4360  270.0000  top
+R6        22R            R_0805_HandSoldering               74.9680   -87.4360  270.0000  top
+R9        1.5k           R_0805_HandSoldering               64.0980   -76.7260  270.0000  top
+R11       470R           R_0805_HandSoldering               59.8280   -87.2060  270.0000  top
+U1        LM1117-3.3     SOT-223-3_TabPin2                  69.1480   -73.8260   90.0000  top
+U2        STM32f405RGT6  LQFP-64_10x10mm_Pitch0.5mm         68.8340   -56.6420  270.0000  top
+Y1        8 MHz          Crystal_SMD_5032-2pin_5.0x3.2mm    68.0280   -45.1260  180.0000  top
+Y2        Crystal        Crystal_SMD_3215-2pin_3.2x1.5mm    67.4980   -41.0260  180.0000  top
+## End
